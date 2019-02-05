@@ -1,0 +1,1089 @@
+element.style {
+}
+
+html *, html :after, html :before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+article, aside, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+body {
+    cursor: url(https://shopify.github.io/draggable/assets/img/cursor-auto.png),auto;
+    position: relative;
+    background-color: #fff;
+}
+:root {
+    --pattern-bg-color: #fff;
+}
+:root {
+    -moz-tab-size: 2;
+    -o-tab-size: 2;
+    tab-size: 2;
+}
+html {
+    font-family: -apple-system,BlinkMacSystemFont,San Francisco,Roboto,Segoe UI,Helvetica,Helvetica Neue,sans-serif;
+}
+button, html, input, optgroup, select, textarea {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+html {
+    font-family: sans-serif;
+    font-size: 62.5%;
+    font-display: swap;
+    line-height: 1;
+    -webkit-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+    -webkit-tap-highlight-color: transparent;
+    box-sizing: border-box;
+}
+html *, html :after, html :before {
+    box-sizing: inherit;
+}
+html *, html :after, html :before {
+    box-sizing: inherit;
+}
+html ::selection {
+    color: #fff;
+    background-color: #212529;
+}
+//1
+element.style {
+}
+
+article, aside, details, figcaption, figure, footer, header, main, menu, nav, section, summary {
+    display: block;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+article, aside, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+body {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #373a3c;
+    background-color: #fff;
+}
+html {
+    font-size: 16px;
+    -ms-overflow-style: scrollbar;
+    -webkit-tap-highlight-color: transparent;
+}
+html {
+    font-family: sans-serif;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+//3
+element.style {
+}
+
+.PillSwitch {
+    position: relative;
+    margin-right: auto;
+    margin-left: auto;
+    width: 27.2rem;
+    height: 27.2rem;
+}
+html *, html :after, html :before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+article, aside, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+body {
+    cursor: url(https://shopify.github.io/draggable/assets/img/cursor-auto.png),auto;
+    position: relative;
+    background-color: #fff;
+}
+:root {
+    --pattern-bg-color: #fff;
+}
+:root {
+    -moz-tab-size: 2;
+    -o-tab-size: 2;
+    tab-size: 2;
+}
+html {
+    font-family: -apple-system,BlinkMacSystemFont,San Francisco,Roboto,Segoe UI,Helvetica,Helvetica Neue,sans-serif;
+}
+button, html, input, optgroup, select, textarea {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+html {
+    font-family: sans-serif;
+    font-size: 62.5%;
+    font-display: swap;
+    line-height: 1;
+    -webkit-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+    -webkit-tap-highlight-color: transparent;
+    box-sizing: border-box;
+}
+html *, html :after, html :before {
+    box-sizing: inherit;
+}
+html *, html :after, html :before {
+    box-sizing: inherit;
+}
+html ::selection {
+    color: #fff;
+    background-color: #212529;
+}
+//4
+element.style {
+}
+
+.PillSwitchTrack {
+    margin-top: -6.5rem;
+    margin-left: -16.25rem;
+    width: 32.5rem;
+    height: 13rem;
+    border-radius: 6.5rem;
+    box-shadow: inset 0 0 0 0.8rem #0042ff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color: #0042ff;
+    background-color: #fff;
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    overflow: hidden;
+}
+html *, html :after, html :before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+body {
+    cursor: url(https://shopify.github.io/draggable/assets/img/cursor-auto.png),auto;
+    position: relative;
+    background-color: #fff;
+}
+:root {
+    --pattern-bg-color: #fff;
+}
+:root {
+    -moz-tab-size: 2;
+    -o-tab-size: 2;
+    tab-size: 2;
+}
+html {
+    font-family: -apple-system,BlinkMacSystemFont,San Francisco,Roboto,Segoe UI,Helvetica,Helvetica Neue,sans-serif;
+}
+button, html, input, optgroup, select, textarea {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+html {
+    font-family: sans-serif;
+    font-size: 62.5%;
+    font-display: swap;
+    line-height: 1;
+    -webkit-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+    -webkit-tap-highlight-color: transparent;
+    box-sizing: border-box;
+}
+html *, html :after, html :before {
+    box-sizing: inherit;
+}
+.PillSwitchTrack:after {
+    content: "";
+    position: absolute;
+    top: -.8rem;
+    right: -.8rem;
+    bottom: -.8rem;
+    left: -.8rem;
+    display: block;
+    background-color: #212529;
+    transition: opacity .12s cubic-bezier(.64,0,.35,1);
+}
+html *, html :after, html :before {
+    box-sizing: inherit;
+}
+html ::selection {
+    color: #fff;
+    background-color: #212529;
+}
+//5
+element.style {
+}
+
+.PillSwitchTrack .Pattern--typeHalftone {
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+    -webkit-animation-play-state: running;
+    animation-play-state: running;
+    height: 27.2rem;
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+.Pattern--typeHalftone {
+    background-image: radial-gradient(currentColor 24%,transparent 25%),radial-gradient(currentColor 24%,transparent 25%);
+    background-position: 0 0,.6rem .6rem;
+    background-size: 1.2rem 1.2rem;
+    -webkit-animation: halftone .48s steps(3) infinite both paused;
+    animation: halftone .48s steps(3) infinite both paused;
+}
+.Pattern {
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+}
+html *, html :after, html :before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.PillSwitchTrack {
+    margin-top: -6.5rem;
+    margin-left: -16.25rem;
+    width: 32.5rem;
+    height: 13rem;
+    border-radius: 6.5rem;
+    box-shadow: inset 0 0 0 0.8rem #0042ff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color: #0042ff;
+    background-color: #fff;
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    overflow: hidden;
+}
+body {
+    cursor: url(https://shopify.github.io/draggable/assets/img/cursor-auto.png),auto;
+    position: relative;
+    background-color: #fff;
+}
+:root {
+    --pattern-bg-color: #fff;
+}
+:root {
+    -moz-tab-size: 2;
+    -o-tab-size: 2;
+    tab-size: 2;
+}
+html {
+    font-family: -apple-system,BlinkMacSystemFont,San Francisco,Roboto,Segoe UI,Helvetica,Helvetica Neue,sans-serif;
+}
+button, html, input, optgroup, select, textarea {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+html {
+    font-family: sans-serif;
+    font-size: 62.5%;
+    font-display: swap;
+    line-height: 1;
+    -webkit-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+    -webkit-tap-highlight-color: transparent;
+    box-sizing: border-box;
+}
+html *, html :after, html :before {
+    box-sizing: inherit;
+}
+html *, html :after, html :before {
+    box-sizing: inherit;
+}
+html ::selection {
+    color: #fff;
+    background-color: #212529;
+}
+0% {
+    background-position: 0 0,.6rem .6rem;
+}
+100% {
+    background-position: .6rem .6rem,1.2rem 1.2rem;
+}
+//6
+.PillSwitchTrack:after {
+    content: "";
+    position: absolute;
+    top: -.8rem;
+    right: -.8rem;
+    bottom: -.8rem;
+    left: -.8rem;
+    display: block;
+    background-color: #212529;
+    transition: opacity .12s cubic-bezier(.64,0,.35,1);
+}
+html *, html :after, html :before {
+    box-sizing: inherit;
+}
+//7
+
+element.style {
+}
+.PillSwitchControl {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 13rem;
+    height: 13rem;
+    color: #212529;
+    background-color: #fff;
+    border: .8rem solid currentColor;
+    border-radius: 50%;
+    transition: color .12s cubic-bezier(.64,0,.35,1);
+}
+a, button {
+    cursor: url(https://shopify.github.io/draggable/assets/img/cursor-pointer.png),pointer;
+}
+[role=button], a, area, button, input, label, select, summary, textarea {
+    touch-action: manipulation;
+}
+a {
+    text-decoration: none;
+    background: transparent;
+}
+html *, html :after, html :before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+body {
+    cursor: url(https://shopify.github.io/draggable/assets/img/cursor-auto.png),auto;
+    position: relative;
+    background-color: #fff;
+}
+:root {
+    --pattern-bg-color: #fff;
+}
+:root {
+    -moz-tab-size: 2;
+    -o-tab-size: 2;
+    tab-size: 2;
+}
+html {
+    font-family: -apple-system,BlinkMacSystemFont,San Francisco,Roboto,Segoe UI,Helvetica,Helvetica Neue,sans-serif;
+}
+button, html, input, optgroup, select, textarea {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+html {
+    font-family: sans-serif;
+    font-size: 62.5%;
+    font-display: swap;
+    line-height: 1;
+    -webkit-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+    -webkit-tap-highlight-color: transparent;
+    box-sizing: border-box;
+}
+html *, html :after, html :before {
+    box-sizing: inherit;
+}
+html *, html :after, html :before {
+    box-sizing: inherit;
+}
+html ::selection {
+    color: #fff;
+    background-color: #212529;
+}
+//8
+element.style {
+}
+
+.PillSwitchControl .Heading {
+    margin-top: -.1em;
+    margin-left: -.05em;
+}
+.Heading--sizeJumbo {
+    font-size: 5.6rem;
+    font-weight: 700;
+    line-height: 1;
+}
+.Heading, .Subheading {
+    letter-spacing: -.01em;
+    line-height: 1.2;
+}
+.Heading {
+    color: currentColor;
+}
+.Heading, .Subheading, dd, li, p {
+    cursor: url(https://shopify.github.io/draggable/assets/img/cursor-text.png),text;
+}
+.text-no-select {
+    pointer-events: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+h1, h2, h3, h4, h5, h6, li, ol, p, ul {
+    margin: 0;
+    padding: 0;
+    font-weight: 400;
+    font-style: normal;
+}
+html *, html :after, html :before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.PillSwitchControl {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 13rem;
+    height: 13rem;
+    color: #212529;
+    background-color: #fff;
+    border: .8rem solid currentColor;
+    border-radius: 50%;
+    transition: color .12s cubic-bezier(.64,0,.35,1);
+}
+a, button {
+    cursor: url(https://shopify.github.io/draggable/assets/img/cursor-pointer.png),pointer;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+body {
+    cursor: url(https://shopify.github.io/draggable/assets/img/cursor-auto.png),auto;
+    position: relative;
+    background-color: #fff;
+}
+:root {
+    --pattern-bg-color: #fff;
+}
+:root {
+    -moz-tab-size: 2;
+    -o-tab-size: 2;
+    tab-size: 2;
+}
+html {
+    font-family: -apple-system,BlinkMacSystemFont,San Francisco,Roboto,Segoe UI,Helvetica,Helvetica Neue,sans-serif;
+}
+button, html, input, optgroup, select, textarea {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+html {
+    font-family: sans-serif;
+    font-size: 62.5%;
+    font-display: swap;
+    line-height: 1;
+    -webkit-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+    -webkit-tap-highlight-color: transparent;
+    box-sizing: border-box;
+}
+html *, html :after, html :before {
+    box-sizing: inherit;
+}
+html *, html :after, html :before {
+    box-sizing: inherit;
+}
+html ::selection {
+    color: #fff;
+    background-color: #212529;
+}
+//9
+element.style {
+}
+
+html *, html :after, html :before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+article, aside, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+body {
+    cursor: url(https://shopify.github.io/draggable/assets/img/cursor-auto.png),auto;
+    position: relative;
+    background-color: #fff;
+}
+:root {
+    --pattern-bg-color: #fff;
+}
+:root {
+    -moz-tab-size: 2;
+    -o-tab-size: 2;
+    tab-size: 2;
+}
+html {
+    font-family: -apple-system,BlinkMacSystemFont,San Francisco,Roboto,Segoe UI,Helvetica,Helvetica Neue,sans-serif;
+}
+button, html, input, optgroup, select, textarea {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+html {
+    font-family: sans-serif;
+    font-size: 62.5%;
+    font-display: swap;
+    line-height: 1;
+    -webkit-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+    -webkit-tap-highlight-color: transparent;
+    box-sizing: border-box;
+}
+html *, html :after, html :before {
+    box-sizing: inherit;
+}
+html *, html :after, html :before {
+    box-sizing: inherit;
+}
+html ::selection {
+    color: #fff;
+    background-color: #212529;
+}
+//10
+element.style {
+}
+
+.PillSwitch {
+    position: relative;
+    margin-right: auto;
+    margin-left: auto;
+    width: 27.2rem;
+    height: 27.2rem;
+}
+html *, html :after, html :before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+article, aside, footer, header, hgroup, main, nav, section {
+    display: block;
+}
+body {
+    cursor: url(https://shopify.github.io/draggable/assets/img/cursor-auto.png),auto;
+    position: relative;
+    background-color: #fff;
+}
+:root {
+    --pattern-bg-color: #fff;
+}
+:root {
+    -moz-tab-size: 2;
+    -o-tab-size: 2;
+    tab-size: 2;
+}
+html {
+    font-family: -apple-system,BlinkMacSystemFont,San Francisco,Roboto,Segoe UI,Helvetica,Helvetica Neue,sans-serif;
+}
+button, html, input, optgroup, select, textarea {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+html {
+    font-family: sans-serif;
+    font-size: 62.5%;
+    font-display: swap;
+    line-height: 1;
+    -webkit-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+    -webkit-tap-highlight-color: transparent;
+    box-sizing: border-box;
+}
+html *, html :after, html :before {
+    box-sizing: inherit;
+}
+html *, html :after, html :before {
+    box-sizing: inherit;
+}
+html ::selection {
+    color: #fff;
+    background-color: #212529;
+}
+//11
+element.style {
+}
+
+.PillSwitchTrack {
+    margin-top: -6.5rem;
+    margin-left: -16.25rem;
+    width: 32.5rem;
+    height: 13rem;
+    border-radius: 6.5rem;
+    box-shadow: inset 0 0 0 0.8rem #0042ff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color: #0042ff;
+    background-color: #fff;
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    overflow: hidden;
+}
+html *, html :after, html :before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+body {
+    cursor: url(https://shopify.github.io/draggable/assets/img/cursor-auto.png),auto;
+    position: relative;
+    background-color: #fff;
+}
+:root {
+    --pattern-bg-color: #fff;
+}
+:root {
+    -moz-tab-size: 2;
+    -o-tab-size: 2;
+    tab-size: 2;
+}
+html {
+    font-family: -apple-system,BlinkMacSystemFont,San Francisco,Roboto,Segoe UI,Helvetica,Helvetica Neue,sans-serif;
+}
+button, html, input, optgroup, select, textarea {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+html {
+    font-family: sans-serif;
+    font-size: 62.5%;
+    font-display: swap;
+    line-height: 1;
+    -webkit-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+    -webkit-tap-highlight-color: transparent;
+    box-sizing: border-box;
+}
+html *, html :after, html :before {
+    box-sizing: inherit;
+}
+.PillSwitch--isOn .PillSwitchTrack:after {
+    opacity: 0;
+}
+.PillSwitchTrack:after {
+    content: "";
+    position: absolute;
+    top: -.8rem;
+    right: -.8rem;
+    bottom: -.8rem;
+    left: -.8rem;
+    display: block;
+    background-color: #212529;
+    transition: opacity .12s cubic-bezier(.64,0,.35,1);
+}
+html *, html :after, html :before {
+    box-sizing: inherit;
+}
+html ::selection {
+    color: #fff;
+    background-color: #212529;
+}
+//12
+element.style {
+}
+
+.PillSwitchTrack .Pattern--typeHalftone {
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+    -webkit-animation-play-state: running;
+    animation-play-state: running;
+    height: 27.2rem;
+    -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+.Pattern--typeHalftone {
+    background-image: radial-gradient(currentColor 24%,transparent 25%),radial-gradient(currentColor 24%,transparent 25%);
+    background-position: 0 0,.6rem .6rem;
+    background-size: 1.2rem 1.2rem;
+    -webkit-animation: halftone .48s steps(3) infinite both paused;
+    animation: halftone .48s steps(3) infinite both paused;
+}
+.Pattern {
+    opacity: 0;
+    visibility: hidden;
+    pointer-events: none;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+}
+html *, html :after, html :before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.PillSwitchTrack {
+    margin-top: -6.5rem;
+    margin-left: -16.25rem;
+    width: 32.5rem;
+    height: 13rem;
+    border-radius: 6.5rem;
+    box-shadow: inset 0 0 0 0.8rem #0042ff;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color: #0042ff;
+    background-color: #fff;
+    -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+    overflow: hidden;
+}
+body {
+    cursor: url(https://shopify.github.io/draggable/assets/img/cursor-auto.png),auto;
+    position: relative;
+    background-color: #fff;
+}
+:root {
+    --pattern-bg-color: #fff;
+}
+:root {
+    -moz-tab-size: 2;
+    -o-tab-size: 2;
+    tab-size: 2;
+}
+html {
+    font-family: -apple-system,BlinkMacSystemFont,San Francisco,Roboto,Segoe UI,Helvetica,Helvetica Neue,sans-serif;
+}
+button, html, input, optgroup, select, textarea {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+html {
+    font-family: sans-serif;
+    font-size: 62.5%;
+    font-display: swap;
+    line-height: 1;
+    -webkit-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+    -webkit-tap-highlight-color: transparent;
+    box-sizing: border-box;
+}
+html *, html :after, html :before {
+    box-sizing: inherit;
+}
+html *, html :after, html :before {
+    box-sizing: inherit;
+}
+html ::selection {
+    color: #fff;
+    background-color: #212529;
+}
+0% {
+    background-position: 0 0,.6rem .6rem;
+}
+100% {
+    background-position: .6rem .6rem,1.2rem 1.2rem;
+}
+//13
+.PillSwitch--isOn .PillSwitchTrack:after {
+    opacity: 0;
+}
+
+.PillSwitchTrack:after {
+    content: "";
+    position: absolute;
+    top: -.8rem;
+    right: -.8rem;
+    bottom: -.8rem;
+    left: -.8rem;
+    display: block;
+    background-color: #212529;
+    transition: opacity .12s cubic-bezier(.64,0,.35,1);
+}
+html *, html :after, html :before {
+    box-sizing: inherit;
+}
+//14
+
+element.style {
+}
+.PillSwitch--isOn .PillSwitchControl {
+    top: 0;
+    right: 0;
+    bottom: auto;
+    left: auto;
+    color: #fff;
+    background-color: #0042ff;
+    border-color: #0042ff;
+}
+.PillSwitchControl {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 13rem;
+    height: 13rem;
+    color: #212529;
+    background-color: #fff;
+    border: .8rem solid currentColor;
+    border-radius: 50%;
+    transition: color .12s cubic-bezier(.64,0,.35,1);
+}
+a, button {
+    cursor: url(https://shopify.github.io/draggable/assets/img/cursor-pointer.png),pointer;
+}
+[role=button], a, area, button, input, label, select, summary, textarea {
+    touch-action: manipulation;
+}
+a {
+    text-decoration: none;
+    background: transparent;
+}
+html *, html :after, html :before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+body {
+    cursor: url(https://shopify.github.io/draggable/assets/img/cursor-auto.png),auto;
+    position: relative;
+    background-color: #fff;
+}
+:root {
+    --pattern-bg-color: #fff;
+}
+:root {
+    -moz-tab-size: 2;
+    -o-tab-size: 2;
+    tab-size: 2;
+}
+html {
+    font-family: -apple-system,BlinkMacSystemFont,San Francisco,Roboto,Segoe UI,Helvetica,Helvetica Neue,sans-serif;
+}
+button, html, input, optgroup, select, textarea {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+html {
+    font-family: sans-serif;
+    font-size: 62.5%;
+    font-display: swap;
+    line-height: 1;
+    -webkit-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+    -webkit-tap-highlight-color: transparent;
+    box-sizing: border-box;
+}
+html *, html :after, html :before {
+    box-sizing: inherit;
+}
+html *, html :after, html :before {
+    box-sizing: inherit;
+}
+html ::selection {
+    color: #fff;
+    background-color: #212529;
+}
+//15
+element.style {
+}
+
+.PillSwitchControl .Heading {
+    margin-top: -.1em;
+    margin-left: -.05em;
+}
+.Heading--sizeJumbo {
+    font-size: 5.6rem;
+    font-weight: 700;
+    line-height: 1;
+}
+.Heading, .Subheading {
+    letter-spacing: -.01em;
+    line-height: 1.2;
+}
+.Heading {
+    color: currentColor;
+}
+.Heading, .Subheading, dd, li, p {
+    cursor: url(https://shopify.github.io/draggable/assets/img/cursor-text.png),text;
+}
+.text-no-select {
+    pointer-events: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+h1, h2, h3, h4, h5, h6, li, ol, p, ul {
+    margin: 0;
+    padding: 0;
+    font-weight: 400;
+    font-style: normal;
+}
+html *, html :after, html :before {
+    box-sizing: inherit;
+}
+user agent stylesheet
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.PillSwitch--isOn .PillSwitchControl {
+    top: 0;
+    right: 0;
+    bottom: auto;
+    left: auto;
+    color: #fff;
+    background-color: #0042ff;
+    border-color: #0042ff;
+}
+.PillSwitchControl {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 13rem;
+    height: 13rem;
+    color: #212529;
+    background-color: #fff;
+    border: .8rem solid currentColor;
+    border-radius: 50%;
+    transition: color .12s cubic-bezier(.64,0,.35,1);
+}
+a, button {
+    cursor: url(https://shopify.github.io/draggable/assets/img/cursor-pointer.png),pointer;
+}
+user agent stylesheet
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+body {
+    cursor: url(https://shopify.github.io/draggable/assets/img/cursor-auto.png),auto;
+    position: relative;
+    background-color: #fff;
+}
+:root {
+    --pattern-bg-color: #fff;
+}
+:root {
+    -moz-tab-size: 2;
+    -o-tab-size: 2;
+    tab-size: 2;
+}
+html {
+    font-family: -apple-system,BlinkMacSystemFont,San Francisco,Roboto,Segoe UI,Helvetica,Helvetica Neue,sans-serif;
+}
+button, html, input, optgroup, select, textarea {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+html {
+    font-family: sans-serif;
+    font-size: 62.5%;
+    font-display: swap;
+    line-height: 1;
+    -webkit-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+    -webkit-tap-highlight-color: transparent;
+    box-sizing: border-box;
+}
+html *, html :after, html :before {
+    box-sizing: inherit;
+}
+html *, html :after, html :before {
+    box-sizing: inherit;
+}
+html ::selection {
+    color: #fff;
+    background-color: #212529;
+}
