@@ -16,7 +16,7 @@ class SidebarComponent {
 @Component({
   selector: 'document',
   templateUrl: 'document.html',
-    styleUrls:['PillSwitch.css']
+    styleUrls:['PillSwitch.scss']
 })
 class DocumentComponent {
   //Injected the Meta and title dependency to be able to change the

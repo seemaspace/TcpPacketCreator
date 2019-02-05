@@ -23,8 +23,14 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+            "src/threads/threads/threads.scss",
+            "src/styles.css"
             ],
+            "stylePreprocessorOptions": {
+  "includePaths": [
+    "src/threads/threads"
+  ]
+},
             "scripts": []
           },
           "configurations": {
@@ -131,5 +137,10 @@
       }
     }
   },
-  "defaultProject": "JustWorkPlease"
+  "defaultProject": "JustWorkPlease",
+  "schematics": {
+    "@schematics/angular:component": {
+      "styleext": "scss"
+    }
+  }
 }

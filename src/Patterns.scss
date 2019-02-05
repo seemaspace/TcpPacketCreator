@@ -1,0 +1,82 @@
+////
+/// Components
+/// Patterns
+////
+
+@import 'layout';
+$stripes-bg-size: 0.8rem;
+$halftone-bg-size: 1.2rem;
+$halftone-bg-position-start: 0 0, ($halftone-bg-size / 2) ($halftone-bg-size / 2);
+$halftone-bg-position-end: ($halftone-bg-size / 2) ($halftone-bg-size / 2), $halftone-bg-size $halftone-bg-size;
+
+@mixin stripes-bg {
+  background-image: repeating-linear-gradient(
+    -45deg,
+    var(--pattern-bg-color) 0%,
+    var(--pattern-bg-color) 40%,
+    currentColor 40%,
+    currentColor 50%,
+    var(--pattern-bg-color) 50%
+  );
+  background-size: $stripes-bg-size $stripes-bg-size;
+}
+
+@mixin pattern-bg-reset {
+  background-image: none;
+  background-color: transparent;
+  background-size: auto auto;
+}
+
+@mixin pattern-halftone-animated {
+  @include visible;
+  animation-play-state: running;
+}
+
+@mixin pattern-placed-animated {
+  @include visible;
+  animation: placed get-duration() get-easing() both;
+}
+
+@keyframes placed {
+  to {
+    transform: scale(0);
+  }
+}
+
+@keyframes halftone {
+  from {
+    background-position: $halftone-bg-position-start;
+  }
+
+  to {
+    background-position: $halftone-bg-position-end;
+  }
+}
+
+:root {
+  --pattern-bg-color: white;
+}
+
+.Pattern {
+  @include visible(false);
+  @include position-cover;
+}
+
+.Pattern--typeStripes {
+  @include stripes-bg;
+}
+
+.Pattern--typeHalftone {
+  background-image:
+    radial-gradient(currentColor 24%, transparent 25%),
+    radial-gradient(currentColor 24%, transparent 25%);
+  background-position: $halftone-bg-position-start;
+  background-size: $halftone-bg-size $halftone-bg-size;
+  animation: halftone get-duration(slow) steps(3) infinite both paused;
+  // transition seems to have no affect... maybe bring back the `fade-in` animation?
+  // transition: opacity get-duration() get-easing(), visibility get-duration() get-easing();
+}
+
+.Pattern--typePlaced {
+  background-color: get-color(brand, blue);
+}
